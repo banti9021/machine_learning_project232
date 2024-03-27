@@ -1,0 +1,12 @@
+DecisionTreeClassifier:
+  criterion: entropy
+  max_depth: 4
+  random_state: 0
+  class_weight: balanced
+
+
+
+
+
+
+
